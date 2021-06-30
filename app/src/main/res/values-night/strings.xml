@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Alarm Clock</string>
-    <string name="switch_night_mode">Switch to dark</string>
+    <string name="switch_night_mode">Switch to light</string>
     <string name="test_default_alarm_time">18:30</string>
 </resources>
